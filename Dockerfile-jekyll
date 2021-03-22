@@ -1,0 +1,6 @@
+FROM jekyll/jekyll:4.0
+
+ADD Gemfile Gemfile.lock ./
+RUN bundle install
+
+WORKDIR /srv/jekyll

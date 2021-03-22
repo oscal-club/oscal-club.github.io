@@ -1,0 +1,5 @@
+FROM alpine:3.12
+LABEL maintainer="Al S xee5ch.gh.al@ila5.info"
+MAINTAINER Al S "xee5ch.gh.al@ila5.info"
+
+RUN apk --no-cache add --virtual native-deps imagemagick
