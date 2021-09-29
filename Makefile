@@ -4,7 +4,7 @@ endif
 
 .PHONY: build-images printenv push-images run
 
-DOCKER_REPO_HOST ?= docker.pkg.github.com
+DOCKER_REPO_HOST ?= ghcr.io
 DOCKER_REPO_ORG ?= oscal-club
 DOCKER_REPO_PROJ ?= website
 DOCKERFILE_JEKYLL ?= Dockerfile-jekyll

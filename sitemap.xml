@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>https://oscal.club//docs/home/</loc>
-<lastmod>2021-03-21T20:23:54-04:00</lastmod>
+<loc>https://oscal.club/docs/home/</loc>
+<lastmod>2021-09-29T00:37:30-04:00</lastmod>
 </url>
 <url>
-<loc>https://oscal.club//allposts.html</loc>
+<loc>https://oscal.club/allposts.html</loc>
 </url>
 <url>
-<loc>https://oscal.club//</loc>
+<loc>https://oscal.club/</loc>
 </url>
 </urlset>
